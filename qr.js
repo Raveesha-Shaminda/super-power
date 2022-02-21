@@ -6,7 +6,7 @@ const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/bailey
 const {StringSession} = require('./RaoneBot/');
 const fs = require('fs');
 
-async function Ravana () {
+async function Super_Power () {
     const conn = new WAConnection();
     const Session = new StringSession();  
     conn.version = [2,2121,7]
@@ -28,7 +28,7 @@ ${chalk.blue.italic('📶 Connecting to Whatsapp Web... Please Wait ❗')}`);
         );
         
         if (!fs.existsSync('config.env')) {
-            fs.writeFileSync('config.env', `RAVANA_SESSION="${st}"`);
+            fs.writeFileSync('config.env', `SUPERPOWER_SESSION="${st}"`);
         }
         if (conn.user.jid.startsWith('90')) {
             await conn.sendMessage(conn.user.jid,st, MessageType.text)
