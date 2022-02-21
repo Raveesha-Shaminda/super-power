@@ -8,4 +8,4 @@
 
 
 
-<h1>    ✍(◔◡◔)✍ SUPER POWER TESM ✍(◔◡◔)✍</h1><table><tr><th> RAVEESHA</th><th> SHEWON</th></tr><tr><td><img src="https://i.ibb.co/FHFSxcP/IMG-20220219-WA0042.jpg"height=300 width=300></td><td><img src="https://i.ibb.co/3spMBT9/IMG-20210417-173918.jpg"height=300 width=300></td></tr><tr><td>Developer & Owner</td><td>Ideas & Group Manegment</td>
+<h1> ✍(◔◡◔)✍ SUPER POWER TESM ✍(◔◡◔)✍</h1><table><tr><th> RAVEESHA</th><th> SHEWON</th></tr><tr><td><img src="https://i.ibb.co/FHFSxcP/IMG-20220219-WA0042.jpg"height=300 width=300></td><td><img src="https://i.ibb.co/3spMBT9/IMG-20210417-173918.jpg"height=300 width=300></td></tr><tr><td>Developer & Owner</td><td>Ideas & Group Manegment</td>
