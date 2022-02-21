@@ -129,13 +129,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "```SUPER_POWER BOT... I'M ALIVE```
-
-*OWNER:* ```wa.me/+94756024770```
-
-*MUSIC_GROUP_LINK :* https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ
-
-```SUPER_POWER_BOT භාවිතා කිරීම ගැන ස්තූතියි.``` "
+            "value": "```SUPER-POWER BOT``` *I 'Am alive*
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
