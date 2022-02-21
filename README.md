@@ -3,7 +3,7 @@
 
 
 
-<h4>qr code</h4><br><br><div align="left"><a href="">
+<h4>qr code</h4><br><br><div align="left"><a href="https://replit.com/@raveeshaShamind/super-power?v=1">Click</a>
 <h4>deply your bot</h4><br><br><div align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/raveesha24shaminda/super-power">CLICK</a>
 
 
