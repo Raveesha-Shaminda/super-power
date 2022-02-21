@@ -1,14 +1,14 @@
 {
     "name": "RAVANA",
-    "description": "RavanaBot is the Modified Version of WhatsAsena, Made By @RAVANA_SL Team with Baileys.",
-    "logo": "https://telegra.ph/file/d61b511f6769c96bb7424.jpg",
-    "keywords": ["whatsapp", "userbot", "ravana", "WhatsAsena", "srilanka", "bot", "ai"],
-    "repository": "https://github.com/RAVANA-SL/slRavana",
-    "website":   "https://github.com/RAVANA-SL/slRavana",
-    "success_url": "https://github.com/RAVANA-SL/slRavana",
+    "description": "Super-PowerBot is the Modified Version of WhatsAsena, Made By @SUPER_POWER Team with Baileys.",
+    "logo": "https://i.ibb.co/6HqBvR3/20220116-154214.jpg",
+    "keywords": ["whatsapp", "userbot", "superpower", "WhatsAsena", "srilanka", "bot", "ai"],
+    "repository": "https://github.com/raveesha24shaminda/super-power",
+    "website":   "https://github.com/raveesha24shaminda/super-power",
+    "success_url": "https://github.com/raveesha24shaminda/super-power",
     "stack": "container",
     "env": {
-        "RAVANA_SESSION": {
+        "SUPER-POWER SESSION": {
             "description": "Type here yours RAVANA Session.",
             "required": true
         },
@@ -39,7 +39,7 @@
         "ALIVE_LOGO": {
             "description": "if alive logo as Image you can change it. use this data store for upload your image => https://telegra.ph/",
             "required": false,
-            "value": "https://telegra.ph/file/cc76f880d8583b8d2bfe0.jpg"
+            "value": "https://i.ibb.co/6HqBvR3/20220116-154214.jpg"
         },
         "BYE_GIF": {
             "description": "Fill here any gif link if you selected gif as WEELCOME",
@@ -129,7 +129,13 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "```♧😂  нί丨𝕀 𝔽яĮẸ𝐧𝐃ｓ яᗩ𝕍ᵃŇ卂-𝐛ⓞ𝕋 ⓃⓄⓦ ˢ𝐭𝓲ＬẸ 卂𝔩ι𝓥έ  ♨♞```\n\n*Version:* ```v4.0 Stable```\n\n*Developer:* ```RAVANA_SL_TEAM```\n\n*Youtube channel :* https://www.youtube.com/channel/UC4WaTaXOPPFP3V6sDBogJug\n\n```Ravana_Bot භාවිතා කිරීම ගැන ස්තූතියි.```"
+            "value": "```SUPER_POWER BOT... I'M ALIVE```
+
+*OWNER:* ```wa.me/+94756024770```
+
+*MUSIC_GROUP_LINK :* https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ
+
+```SUPER_POWER_BOT භාවිතා කිරීම ගැන ස්තූතියි.``` "
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -139,7 +145,7 @@
         "MENU_LOGO": {
             "description": "You Can Customiz Ravana-Bot Menu Logo. get image links use this site => https://telegra.ph/",
             "required": false,
-            "value": "https://telegra.ph/file/196687b452f1a1a49079c.jpg"
+            "value": "https://i.ibb.co/6HqBvR3/20220116-154214.jpg"
         },
         "SONG_D": {
             "description": "Customizable song DOWNLOADING message'",
