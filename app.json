@@ -129,7 +129,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "```SUPER-POWER BOT``` *I 'Am alive*
+            "value": "```SUPER-POWER BOT``` *I 'Am alive*"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
